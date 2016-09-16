@@ -1,2 +1,2 @@
-# python基本语法
+# _python_基本语法
 

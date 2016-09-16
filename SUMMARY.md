@@ -7,4 +7,5 @@
 * [python函数式编程](python函数式编程.md)
 * [python面向对象编程](python面向对象编程.md)
 * [python面向对象高级编程](python面向对象高级编程.md)
+* [python错误调试](python错误调试.md)
 
